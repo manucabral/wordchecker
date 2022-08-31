@@ -1,0 +1,4 @@
+source: es
+dest: en
+save: true
+attemps: 5
