@@ -3,8 +3,8 @@ from time import sleep
 import os
 
 try:
-    from googletrans import Translator
     import yaml
+    from googletrans import Translator
 except ImportError:
     print("""
 You need to install googletrans and pyyaml to use this program.
