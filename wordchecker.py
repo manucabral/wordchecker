@@ -143,7 +143,7 @@ if __name__ == '__main__':
     print(f"""
 {APP_NAME} v{VERSION} by {AUTHOR}
 
-Config file loaded ->
+Config file loaded
     Source language: {configs['source']}
     Destination language: {configs['dest']}
     Save translations: {configs['save']}
